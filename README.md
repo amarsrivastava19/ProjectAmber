@@ -27,17 +27,16 @@ Project Amber is a research-driven tool designed to support rapid analysis of AM
 
 The system combines:
 
-Natural Language Processing (NLP): to extract structured information from alert texts
-
-Geospatial Analysis (GIS): to estimate suspect travel radii and filter high-probability locations
-
-Open-Source Intelligence (OSINT): including vehicle registration lookup, address resolution, and social media observation
-
-Traffic Surveillance Integration: to monitor DOT cameras and corroborate possible sightings
+-Natural Language Processing (NLP): to extract structured information from alert texts
+-Geospatial Analysis (GIS) and Routing: to estimate suspect travel radii and filter high-probability locations
+-Open-Source Intelligence (OSINT): including vehicle registration lookup, address resolution, and social media observation
+-Traffic Surveillance Integration: to monitor DOT cameras and corroborate possible sightings
 
 ----------------------------------------------------------
 
-[Modular Architecture Design - To be filled out]
+## Modular Architecture Design 
+
+- To be filled out
 
 
 
