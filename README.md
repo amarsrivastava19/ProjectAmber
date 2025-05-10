@@ -16,7 +16,9 @@ Thus, its absolutely critical that a criminal investigation can be conducted qui
 
 
 Project Amber seeks to build an analytical apparatus which can combine multiple sources of publically available data to assist law enforcement in resolving these most dangerous abduction cases. It combines OSINT, SIGINT, and GIS Routing to identify high probability zones of where suspects may be within the first 3 hours of an Amber Alert. 
-
+.
+.
+.
 
 [Modular Architecture Design - To be filled out]
 
