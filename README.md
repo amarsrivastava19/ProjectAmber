@@ -5,17 +5,17 @@ The AMBER Alert system is designed to notify the public when a child abduction o
 
 Statistically, most abductions involve individuals known to the child:
 
-Approximately 50% involve non-custodial parents or family members
+- Approximately 50% involve non-custodial parents or family members
 
-Around 30% involve acquaintances such as neighbors or babysitters
+- Around 30% involve acquaintances such as neighbors or babysitters
 
 These cases often benefit from pre-existing relationships and identifiable leads, which typically lead to high closure rates.
 
 However, the remaining ~20% of cases involve strangers—and these are significantly more dangerous and difficult to resolve:
 
-40–50% of stranger abductions result in homicide
+- 40–50% of stranger abductions result in homicide
 
-Approximately 76% of those homicides occur within the first 3 hours of abduction
+- Approximately 76% of those homicides occur within the first 3 hours of abduction
 
 These time constraints place extreme pressure on the initial phase of the investigation, where any delay may critically reduce the chance of recovery.
 
