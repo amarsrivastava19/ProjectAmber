@@ -1,4 +1,5 @@
 # ProjectAmber
+## A rapid response system for Amber Alerts
 
 The Amber Alert system is a service that notifies the public of a child abduction in progress. This ensures that everyday citizens can keep an eye out for suspicious vehicles or individuals (especially if they match the alert's descriptions). 
 
